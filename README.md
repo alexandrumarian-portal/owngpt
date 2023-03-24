@@ -10,3 +10,7 @@ The idea behind owngpt is not to use the web interface of ChatGPT but rather use
 Useful links:
 
 https://prompts.chat/
+
+https://github.com/f/awesome-chatgpt-prompts
+
+https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv
